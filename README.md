@@ -1,5 +1,6 @@
 **Setup Construction**
-
+Clone this repos to your computer: git clone https://github.com/questdb/questdb-mock-power-sensor mock-sensor
+Adjust the telegraf.conf on mock-sensor folder and grafana/granafa.ini file on Docker as on R&D_GUIDELINE.pdf attached
 ***Power Supply***
 
 1.Power supply for the endNode devices.
